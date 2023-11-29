@@ -1,4 +1,4 @@
-git remote set-url origin https://Stelvio-Chibuco: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@github.com/Stelvio-Chibuco/Stelvio-Chibuco.github.io.git
+git remote set-url origin https://Stelvio-Chibuco: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@github.com/Stelvio-Chibuco/Stelvio-Chibuco.github.io.git
 
 git init
 
